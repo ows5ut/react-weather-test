@@ -1,0 +1,10 @@
+.CityInput {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.CityInput input {
+  margin-left: .5rem;
+}
